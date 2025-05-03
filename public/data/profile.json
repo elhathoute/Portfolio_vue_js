@@ -1,29 +1,20 @@
 {
-    "name": "Roy Sheppard",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "name": "ELHATHOUT ABDELAZIZ",
+            "role": "Full Stack Developer"
         },
-
-        "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
+        "ar": {
+            "name": "الهـثهـوت عبد العزيز",
+            "role": "Full Stack Developer"
         },
-
         "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-
-        "zh": {
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "name": "ELHATHOUT ABDELAZIZ",
+            "role": "Développeur Full Stack"
         }
     },
-
     "contactOptions": [
         {
             "id": "address",
